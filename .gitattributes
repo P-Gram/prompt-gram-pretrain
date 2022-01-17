@@ -1,0 +1,4 @@
+data/data.zip filter=lfs diff=lfs merge=lfs -text
+model/TYC.zip filter=lfs diff=lfs merge=lfs -text
+model/Thucnews.zip filter=lfs diff=lfs merge=lfs -text
+model/msra.zip filter=lfs diff=lfs merge=lfs -text
